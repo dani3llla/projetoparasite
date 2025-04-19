@@ -37,7 +37,7 @@
     left: 0;
     top: 0%; /* Ajuste o valor conforme necessário */
      /* Centraliza verticalmente */
-    transition: transform 0.9s ease-in-out, top 0.7s ease-in-out;
+    transition: transform 0.9s ease-in-out, top 0.7s ease-in-out, border-radius 0.5s ease-in-out, top 0.5s ease-in-out;
       /* Efeito de transição suave */
       overflow: hidden;
       
